@@ -125,7 +125,7 @@ simstring_module = Extension(
 setup(
     name = 'quickumls_simstring',
     url = 'https://github.com/Georgetown-IR-Lab/simstring',
-    version = '1.1.5r1',
+    version = '1.2.0',
     description=(
         'Clone of simstring designed to work with QuickUMLS. ' 
         'Original version here: http://chokkan.org/software/simstring/'
